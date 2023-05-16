@@ -11,7 +11,7 @@
 
     <groupId>io.github.blazejknie</groupId>
     <artifactId>mssc-brewery-dependencies</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <name>mssc-brewery-dependencies</name>
 
     <packaging>pom</packaging>
@@ -213,7 +213,7 @@
     <scm>
         <developerConnection>scm:git:ssh://git@github.com/blazejknie/mssc-brewery-dependencies.git</developerConnection>
         <url>https://github.com/blazejknie/mssc-brewery-dependencies</url>
-        <tag>mssc-brewery-dependencies-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
